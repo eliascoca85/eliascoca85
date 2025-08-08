@@ -6,5 +6,4 @@
  - Visit my [https://my-portfolio-pbf6m2vt8-eliascoca85s-projects.vercel.app](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project).
 
    
-![eliascoca85's Streak](https://github-readme-streak-stats.herokuapp.com/?user=eliascoca85&theme=prussian&hide_border=true)
 ![eliascoca85's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliascoca85&theme=prussian&show_icons=true&hide_border=true&layout=compact)
